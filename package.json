@@ -12,7 +12,7 @@
     "restful",
     "api"
   ],
-  "author": "Calvin Morett ty Maximilian Schwarzmuller",
+  "author": "Calvin Morett CA Maximilian Schwarzmuller",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.2",
